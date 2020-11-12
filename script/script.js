@@ -26,7 +26,7 @@ function notify() {
       link += (key.charAt(ltr))
     }
   }
-document.write("<a href='mailto:"+link+"'>"+link+"</a>")
+document.getElementById("email").innerHTML = `<a href='mailto:"+link+"'>"+link+"</a>"`;
 }
 //-->
 </script><noscript>Sorry, you need Javascript on to email me.</noscript>
