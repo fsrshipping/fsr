@@ -27,5 +27,3 @@ function notify() {
   }
 document.getElementById("email").innerHTML = `<a href='mailto:"+link+"'>"+link+"</a>"`;
 }
-//-->
-</script><noscript>Sorry, you need Javascript on to email me.</noscript>
