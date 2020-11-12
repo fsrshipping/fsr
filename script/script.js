@@ -6,8 +6,7 @@ function notify() {
     alert("Because of a lot of spam the contact form is temporarily not in use. Please contact your personal customer care representative");
 }
 
-<script type="text/javascript" language="javascript">
-<!--
+
 // Email obfuscator script 2.1 by Tim Williams, University of Arizona
 // Random encryption key feature coded by Andrew Moulden
 // This code is freeware provided these four comment lines remain intact
