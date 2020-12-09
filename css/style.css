@@ -297,7 +297,7 @@ textarea {
 }
 
 .ip-track {
-    
+    opacity: 0;
     text-align: right;
     align-self: flex-end;
 }
