@@ -296,7 +296,8 @@ textarea {
     }
 }
 
-
-
+.ip-track {
+    opacity: 0;
+}
 
 
