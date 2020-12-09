@@ -299,7 +299,7 @@ textarea {
 .ip-track {
     
     text-align: right;
-    justify-self: flex-end;
+    align-self: flex-end;
 }
 
 
