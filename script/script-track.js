@@ -1,11 +1,20 @@
-const track = document.getElementById("trackbutton");
+$(document).ready(function() {
+    $("#trackbutton").click(function() {
+        let getNumber = $("#trackingnumber").val();
+        let link = "http://fsr-shipping.netlify.app/trk/" + getNumber + ".html"
+        $("#tracking-main").load(link);
+    });
+
+    $('#trackingnumber').on('keypress', function (e) {
+        if(e.which === 13){
+            let getNumber = $("#trackingnumber").val();
+            let link = "http://fsr-shipping.netlify.app/trk/" + getNumber + ".html"
+            $("#tracking-main").load(link);
+           
+        }
+    });
+
+});
 
 
-track.addEventListener("click", trackParcel);
-
-function trackParcel() {
-    let trackingnumber = document.getElementById("trackingnumber").value;
-    console.log(trackingnumber);
-    window.location=`http://fsr-shipping.netlify.app/trk/${trackingnumber}.html`;
-}
-
+  
