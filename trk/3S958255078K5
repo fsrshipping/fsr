@@ -1,0 +1,57 @@
+<!--
+    Frazzle / customs scammer
+    NY timezone = NL -6
+-->      
+            
+<h2 class="page-section-title">Your Parcel Status</h2>
+                
+<p class="no-margin"><i class="fas fa-crosshairs"></i> 06/22/23 12:15 - Parcel at FSR Access Point Queens, NY.  FSR Express Overnight </p>
+<p class="no-margin"><i class="fas fa-ellipsis-v"></i></p>
+<!--
+<p class="no-margin"><i class="fas fa-crosshairs"></i> 06/22/23 16:28 - FSR Express Overnight Origin Scan- Queens, NY </p>
+<p class="no-margin"><i class="fas fa-ellipsis-v"></i></p>
+<p class="no-margin"><i class="fas fa-crosshairs"></i>06/22/23 19:04 - Departed from Facility Queens, NY</p>
+<p class="no-margin"><i class="fas fa-ellipsis-v"></i></p>
+<p class="no-margin"><i class="fas fa-crosshairs"></i>06/22/23 20:38 - Arrived at Facility Newark NJ </p>
+<p class="no-margin"><i class="fas fa-ellipsis-v"></i></p>
+<p class="no-margin"><i class="fas fa-crosshairs"></i>06/22/23 23:08 - Departed from Facility Newark NJ</p>
+<p class="no-margin"><i class="fas fa-ellipsis-v"></i></p>
+<p class="no-margin"><i class="fas fa-crosshairs"></i>06/23/23 02:22 - Arrived at Facility Montgomery AL </p>
+<p class="no-margin"><i class="fas fa-ellipsis-v"></i></p>
+<p class="no-margin"><i class="fas fa-crosshairs"></i>06/23/23 03:04 - Departed facility Montgomery AL </p>
+<p class="no-margin"><i class="fas fa-ellipsis-v"></i></p>
+<p class="no-margin"><i class="fas fa-crosshairs"></i>06/23/23 05:28 - Arrived at Facility Columbus GA </p>
+<p class="no-margin"><i class="fas fa-ellipsis-v"></i></p>
+<p class="no-margin"><i class="fas fa-crosshairs"></i>06/23/23 06:00 - Deparrted Facility Columbus GA </p>
+<p class="no-margin"><i class="fas fa-ellipsis-v"></i></p>
+<p class="no-margin"><i class="fas fa-crosshairs"></i>06/23/23 08:15 - Arrived at Facility Macon GA </p>
+<p class="no-margin"><i class="fas fa-ellipsis-v"></i></p>
+<p class="no-margin"><i class="fas fa-crosshairs"></i>06/23/23 08:48 - Departed from Facility Macon GA </p>
+<p class="no-margin"><i class="fas fa-ellipsis-v"></i></p>
+<p class="no-margin"><i class="fas fa-crosshairs"></i>06/23/23 10:25 - Arrived at FSR Express Destination Facility College Park, GA </p>
+<p class="no-margin"><i class="fas fa-ellipsis-v"></i></p>
+<p class="no-margin"><i class="fas fa-crosshairs"></i>06/23/23 10:25 - Prearing for delivery  </p>
+<p class="no-margin"><i class="fas fa-ellipsis-v"></i></p>
+<p class="no-margin"><i class="fas fa-crosshairs"></i>06/23/23 10:52 - Departed FSR Express Facility College Park, GA - Out for Delivery </p>
+<p class="no-margin"><i class="fas fa-ellipsis-v"></i></p>
+<p class="no-margin"><i class="fas fa-crosshairs"></i>06/23/23 11:28 - Delivered - 6000 N Terminal Pkwy Suite 4000 - Signed for by Mary Smith </p>
+-->
+
+<h2 class="page-section-title">Scheduled delivery: Friday June 23</h2>
+
+
+            
+<div class="trk-contact">
+    <p>Please allow a 24 hour delay in status updates.</p>
+    <p>For any questions please contact your personal customer service representative.</p>
+</div>
+        
+<img class="tracking-logo" src="../img/logo.png" alt="logo">  
+
+<!--
+    Copy these two lines below to add info
+
+    <p class="no-margin"><i class="fas fa-ellipsis-v"></i></p>
+    <p class="no-margin"><i class="fas fa-crosshairs"></i> DATE / TIME - LOCATION</p>
+
+-->
